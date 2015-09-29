@@ -1,0 +1,3523 @@
+o2     氧氣
+co2    二氧化碳
+hwsor  硫酸 SULFURICACID
+
+east   東 東方
+west   西 西方
+south  南 南方
+north  北 北方
+
+spring 春 春天 噴泉 彈簧
+summer 夏 夏天
+autumn 秋 秋天
+winter 冬 冬天 寒冬
+
+sunday    星期日 禮拜天
+monday    星期一 禮拜一
+tuesday   星期二 禮拜二
+wednesday 星期三 禮拜三
+thursday  星期四 禮拜四
+friday    星期五 禮拜五
+saturday  星期六 禮拜六
+week      星期   禮拜
+weekend   週末
+
+january   一月
+february  二月
+march     三月 遊行 行軍 步伐
+april     四月
+may       五月 也許 可以
+june      六月
+july      七月
+august    八月
+september 九月
+october   十月
+november  十一月
+december  十二月
+
+first     第一 首先 第一次 最初 先
+second    第二 秒 秒鐘
+third     第三
+fourth    第四
+fifth     第五
+sixth     第六
+seventh   第七
+eighth    第八
+ninth     第九
+tenth     第十
+zero         零 零度 零點
+one       一 壹 一個
+two       二 貳 二個 兩個 倆個
+three     三 參
+four      四 肆
+five      五 伍
+six       六 陸
+seven     七 柒
+eight     八 捌
+nine      九 玖
+ten       十 拾
+eleven    十一
+twelve    十二
+numbers   一二三四五六七八九十 壹貳參肆伍陸柒捌玖拾
+
+tulip     鬱金香
+poppy     罌粟花
+jasmine   茉莉花
+rose      玫瑰花
+camellia  山茶花
+hawthorn  山楂花
+vanilla   香子蘭 香草
+
+ferrari     法拉利
+lamborghini 蘭博基尼
+chrysler    克萊斯勒
+volkswagen  大眾汽車
+
+canton     廣州
+hongkong   香港
+macau      澳門
+losangeles 洛杉磯
+turandot   圖蘭朵
+austin     奧斯汀
+australia  澳大利亞 澳洲
+austria    奧地利
+baghdad    巴格達
+belgium    比利時
+california 加利福尼亞
+vietnam    越南
+vietnamese 越南語 越南人
+virginia   弗吉尼亞
+
+color  顏色 彩色 色
+red    紅色 紅 朱 赤
+black  黑色 黑
+yellow 黃色 黃
+green  綠色 綠
+blue   藍色 藍
+violet 紫色
+purple 紫色 紫
+white  白色 白
+grey   灰色 灰
+pink   粉紅 桃色
+golden 金色 金色的
+
+gb       國標 國標碼
+big5     大五碼
+mlck     目錄詞庫
+wjck     文件詞庫
+mjck     民間詞庫
+znbq     智能補全
+cjjp     超級簡拼 首拼
+
+ability 才能 能力
+able 能力
+aboard 在船上
+about 關於 前後 大約
+above 上面 以上
+abroad 國外
+abscess 膿腫 潰瘍
+absence 缺席 不在
+absolute 絕對
+abstract 摘要 抽象
+absurd 荒唐 不經之談
+abyss 深淵
+accelerator 油門
+accent 口音 重音 腔調
+accept 答應 接受
+accident 意外 事故
+accord 調和 一致
+account 賬號 賬目
+accrue 累積
+accumulate 積累 累加
+accuracy 準確性 精確程度
+accurate 精確的 準確的 正確無誤的
+acquire 獲得
+across 走過 越過
+act 動作 扮演
+action 舉動 作用 行為 動作
+activate 激活
+ad 廣告
+add 加 加上 加入 附加 添加
+addition 加法 附加
+address 住址 地址 攀談 致敬
+adjust 調整
+admire 欣賞 讚嘆
+admission 許可
+admit 入場
+advance 先進 高級
+advantage 優勢 優點 利益
+adventure 奇遇
+adverb 副詞
+advertisement 廣告
+advice 勸導 忠告 意見
+advise 通告
+advocacy 擁護 支持 提倡 出庭辯護
+affair 風流 風流韻事
+affiliate 互聯網營銷模式 分銷聯盟
+afghanistan 阿富汗
+afraid 害怕 恐怕 擔憂
+africa 非洲
+before 以前 以往 從前 曾經 早先 先頭
+after 以後
+afternoon 下午
+again 又 再次 重新 再三
+against 抵抗
+age 年齡 骨齡 時代
+ago 以前
+agree 一致 同意 承認 贊成
+agreement 一致 合同
+agriculture 農 農業
+aids 艾滋病
+air 空氣
+airplane 飛機
+airport 飛機場
+alabama 阿拉巴馬
+alarm 警報
+alaska 阿拉斯加
+alcohol 酒精 酒
+algebra 代數學
+algorithm 算法
+alike 相似
+alive 活著 活潑
+all 都 都是 一切 全體 全部 所有
+allow 承認 容許
+almost 幾乎 差不多
+alone 獨 單獨 獨自
+along 沿著
+alpha α Α
+alphabet 字母
+already 已經
+although 雖然 縱然 即使
+alumina 鋁
+alumni 校友
+always 總是 一直 時刻 歷來 老是 向來 從來 素來
+ambiguity 曖昧 歧義 模稜兩可
+ambiguous 曖昧的
+amidst 當中
+ammo 彈藥 軍火
+among 之中
+amount 總計
+amour 戀情 私通 偷情 性愛
+broadvision 宏道資訊
+greencard 綠卡
+backspace 退格鍵
+space 空白 空間 空格鍵
+menu 菜單
+menuless 無菜單
+target 目標 靶子 靶標 對準 槍靶 意圖
+quota 配額 限額 定額 指標
+goal 球門 終點 目的 目標
+sake 理由 緣故
+aim 瞄準
+purpose 目的 企圖
+zen 禪
+candidate 候選人
+refresh 刷新 提神
+setup 設置 配置
+mobile 移動 流動 手機
+cellphone 手機
+amplitude 幅度
+amuse 歡喜 高興
+amusement 娛樂 消遣
+analog 模擬
+analysis 分析
+analyze 分析
+ancestor 祖先
+anchor 錨
+ancient 古代
+and 和
+andorra 安道爾
+bill  比爾 帳單
+mike  麥克 麥克風 話筒
+david 大為 大衛
+angie 安琪
+angel 天使 安琪兒
+angle 角
+angry 生氣 憤怒
+animal 動物 禽獸 畜生
+announcement 宣布 宣告 布告 廣播 通知
+another 另一個
+answer 回答 答案 答覆
+ant 螞蟻
+antonym 反義詞
+anxious 憂慮 渴望
+any 任何 任一
+anyhow 反正
+anyone 任何人
+apartment 公寓
+apostrophe 撇號
+apparent 顯然
+appear 顯露 現出 顯得 好像
+appendix 附錄
+apple 蘋果
+application 應用
+apply 申請
+appoint 指定
+appointment 約會 任命
+approah 接近 趨近
+approximate 近似
+apricot 杏
+apt 善於 適當
+arab 阿拉伯 阿拉伯人 阿拉伯馬
+arch 弧 拱 弓形
+archimedes 阿基米德
+are 是
+areca 檳榔
+argentina 阿根廷
+argon 氬
+arigato 謝謝
+arise 興起 出現 起來
+arithmetic 算術 運算
+arizona 亞利桑那
+arkansas 阿肯色
+arm 臂
+armenia 亞美尼亞
+armour 裝甲 盔甲
+army 軍 軍隊 陸軍
+around 周圍
+arrange 安排 布置
+array 陣列
+arrest 逮捕
+arrive 到達
+arrow 矛 箭 → ↑ ← ↓ ↖ ↗ ↘ ↙
+arsenic 砷
+art 藝術
+arthritis 關節炎
+article 文章 論文 條款
+artificial 人造
+artist 美術家 藝術家
+artistry 藝術性 技藝
+as 作為
+asap 盡快 盡早 盡可能快 盡可能早
+ascend 上升
+ashame 羞恥 慚愧
+asia 亞洲 亞細亞
+aside 旁邊
+ask 詢問
+asleep 睡熟
+asparagus 蘆筍
+assembly 流水線 生產線
+assist 助手 補助
+assistant 助手
+associate 聯想
+assume 假設 假定 承擔 設想 臆斷 臆測 意想
+astound 驚愕
+astray 走錯
+at 在
+athlete 體育 運動
+atlanta 亞特蘭大
+atlantic 大西洋
+atlast 終於
+atleast 至少
+atmost 至多
+atom 原子
+atropine 阿托品
+attach 貼上 依戀 附加
+attack 攻擊
+attempt 企圖 試圖
+attend 出席
+attention 注意 留心
+attitude 姿態
+attribute 屬性
+audacity 大膽 厚顏
+audience 聽眾 讀者
+audio 音頻 伴音
+augment 增加 增強
+aunt 阿姨 舅母
+austerity 節儉 嚴峻 嚴厲 苦行
+author 筆者 作者 當局 權威
+auto 自動
+average 平均
+avoid 避免
+aware 意識到
+away 離開
+awful 厲害 可怕
+axe 斧
+axis 軸
+baby 娃 娃娃 寶寶 嬰兒 寶貝 孩子 孩兒 稚子
+bachelor 學士
+back 回 退 背
+backfire 幫倒忙 弄巧成拙 適得其反 事與願違
+background 背景
+backslash 反斜槓
+backward 落後
+bad 壞
+bag 袋
+baggage 行李
+bake 烘烤
+balance 平衡 差額 天平
+balcony 陽台 戲院
+bald 禿
+ball 球
+balloon 氣球 氣圈
+bamboo 竹 竹筍
+banana 香蕉
+band 樂隊
+bangladesh 孟加拉國
+bank 銀行 河岸
+banquet 宴會
+barber 理髮師
+bargain 廉價品
+bark 樹皮
+barn 穀倉
+base 基礎 庫
+baseball 壘球
+basic 基本
+basil 紫蘇 羅勒 九層塔 金不換
+basket 籃子 籠簍
+basketball 籃球
+bat 棍子 球棒
+bath 洗澡
+bathroom 浴室
+battery 電池
+battle 戰鬥 戰役
+bay 灣
+bazaar 市場 市集
+beach 海灘 海濱
+beam 光線 發光 射線 橫粱
+bean 豆
+bear 熊 熊市
+beard 鬍子
+beast 獸
+beat 打敗
+beautiful 美麗的 漂亮的
+beauty 美麗 漂亮
+because 因為 由於
+become 變成
+bed 床
+bedroom 寢室 臥室
+bee 蜜蜂
+beef 牛肉
+beer 啤酒
+beg 乞討
+begin 開始 著手
+beginner 初學者
+behind 後面
+belief 信仰 信用 信心
+believe 相信 以為
+bell 鐘 鈴
+belly 腹
+belong 屬 屬於 附屬
+belt 腰帶
+bench 長凳
+bend 彎曲
+beneath 下面
+benefit 利益 好處
+benin 貝寧
+berkeley 伯克利
+berlin 柏林
+berlinwall 柏林墻
+berry 漿果
+beside 另外 此外 旁邊
+best 最好的 最好
+bet 賭
+beta β Β
+better 更好 較好 越來越好
+between 之間
+beyond 超過 那邊
+bhutan 不丹
+bible 聖經
+bicycle 自行車 單車
+big 大
+bigger 越來越大
+biggest 最大的
+bikini 比基尼 三點式
+bind 裝釘 捆
+biography 傳
+bird 鳥
+birth 誕生
+birthday 生日
+biscuit 餅乾
+bit 少許 一點
+bite 咬 比特
+bitter 苦的 辛苦
+blackberry 黑莓 黑莓子
+blackboard 黑板
+blackbox 黑箱
+blackjack 廿一點
+blade 刃 刀片
+blame 責備 責怪 非難
+blank 空白
+blanket 毯子 氈子
+blast 爆炸 陣風
+blaze 冒火 火焰
+bless 幸福 祝福
+blind 盲 瞎
+blink 閃爍
+blog 博客 微博 發微博 織圍脖
+blood 血 血腥
+bloody 殘忍
+blossom 開花
+blot 污斑 吸掉
+blow 吹
+blowjob 吹蕭 打飛機
+blush 面紅 慚愧
+board 木板 船內
+boast 誇耀 自誇
+boat 船 小船 小艇
+body 體 身體 團體
+boil 煮 沸騰
+boiler 鍋爐 汽鍋
+bold 大膽
+bolivia 玻利維亞
+bomb 炸彈 轟炸
+bond 債卷
+bone 骨 骨頭
+bonus 獎金
+book 書 書籍 書本 登記 預訂
+bookcase 書櫥
+boots 長靴
+born 出生 出身
+boron 硼
+borrow 借
+bosnia 波斯尼亞
+bosom 胸膛
+boss 老闆
+botany 植物學
+both 兩者 兩個 雙方
+botox 保妥適 肉毒桿菌素
+bottom 底下部
+bound 界限 跳躍
+bounty 賞金
+bow 點頭 船首
+box 盒
+boy 少年 男孩
+boyfriend 男友 男朋友
+bra 文胸 胸罩
+bracket 括號 支架 托架
+brain 腦 頭腦 腦袋 腦髓
+brainwash 洗腦
+branch 支流 樹枝
+brave 勇敢
+brazil 巴西
+bread 麵包
+breadth 幅員 廣闊
+break 弄壞 破裂
+breakfast 早餐
+breast 乳房 胸部 奶 乳
+breath 呼吸 氣息
+breeze 和風 微風
+bribe 行賄 收買 買通 打點 賄絡 買關節
+brick 磚 磚頭 磚塊 金磚四國
+bridge 橋 橋梁
+brief 簡短 扼要 概略
+bright 光亮 燦爛 輝煌
+brilliant 輝煌 華麗
+bring 帶來 拿來
+britain 不列顛 英國 英國人
+broad 廣大 廣闊 明朗
+broadcast 廣播
+broken 破碎 斷續
+bromine 溴
+brook 溪流
+broom 掃帚
+brother 老兄 哥哥 兄弟
+brow 眉毛 額頭
+brown 布朗 褐色
+browse 瀏覽
+browser 瀏覽器 瀏覽者
+brunei 文萊
+brush 刷子 毛刷
+brute 粗暴 畜牲 野獸
+bslash 反斜槓
+btw 順便說一句
+bucket 桶 水桶 吊桶
+bud 花蕾 葉芽
+buffer 緩衝
+bug 臭蟲
+bugle 喇叭
+build 建設 建造
+building 建築物 大廈
+bull 牛 牛市
+bullet 槍彈
+bullying 霸凌
+bunch 串 束
+burden 負擔 重擔
+burn 燃燒 燒
+burst 爆發 破裂
+bury 埋葬
+bus 汽車 公共汽車
+bush 叢林 樹叢
+business 事務 營業
+busy 忙碌 匆忙
+but 但是 不過 可是
+butterfly 蝴蝶
+button 鈕扣
+buy 買
+buzz 嗡嗡
+byebye 再見 再會 告別 拜拜
+cabbage 洋白菜 高麗菜
+cabin 小屋
+cabine 內閣 櫃櫥
+cable 電報 電纜 錨鏈
+cache 緩存 貯藏所 隱藏處 緩衝貯存區
+cadaver 屍體 死屍
+cafe 小吃 餐館
+cafeteria 餐館
+cake 糕 餅
+calcium 鈣
+calculator 計算器
+calendar 日曆
+call 叫 呼喚 訪問 號召
+calm 冷靜 平靜 沉著 鎮定
+cambodia 柬埔寨
+camel 駱 駱駝
+camera 照相機 暗箱
+cameroon 喀麥隆
+camping 露營
+campus 校園
+can 會 能夠 可以
+canada 加拿大
+canal 運河 溝渠
+cancel 癌 取消 癌症
+cancer 癌症 取消
+candle 蠟 燭 蠟燭
+candor 直率 爽快
+cannon 大炮 炮
+cannot 不能
+cantonese 粵語
+canvas 畫布 帆布
+cap 帽子
+capable 有能力
+capacitance 電容
+capacity 容量
+cape 海角 披肩
+capital 大寫 資本 首都
+capitalism 資本主義
+capitalist 資本家
+cappuccino 卡布基諾
+captain 隊長 上校
+captive 俘虜
+capture 捕獲 擄掠
+car 汽車 車子
+carbon 碳
+card 名片 卡片 賀卡
+care 小心 當心 掛念 照料
+career 職業 職場 職場生涯
+careful 仔細 小心 慎重 謹慎
+careless 粗心
+carpet 地毯
+carriage 客車廂
+carry 帶走 搬運
+carve 雕刻
+case 場合 情況
+cash 現金
+casino 賭場 賭博 中獎啦
+cast 鑄造
+castle 城堡
+cat 貓 貓膩
+catch 捉 感染
+catdog 貓貓狗狗一家親
+cattle 家畜
+caucasian 白種人 高加索人
+cause 原因
+cave 山洞
+caveat 警告 中止訴訟手續
+ccp 中國共產黨
+cctv 央視 中央電視台
+ceiling 天花板
+celebrate 舉行 慶祝
+cell 單元 細胞 蜂窩
+cellar 地下室 地窖
+center 中心 中樞
+central 中央
+centrifuge 離心機 離心分離機
+century 世紀
+ceremony 儀式 典禮
+certain 當然 的確 確實
+certificate 鑒定 證明書
+certify 鑒定
+chad 乍得
+chain 鏈子 連鎖
+chair 椅子
+chairman 主席
+chalk 粉筆
+chamber 會議室 房間
+champion 冠軍 優勝者
+chance 機會 偶然
+chanel 香奈爾
+change 變化 改變
+channel 通道 海峽 航道
+chaos 混亂 混沌 凌亂
+chapel 禮拜堂
+chapter 章
+character 人物 角色 字符
+charge 充電 收費
+charm 迷住 魅力
+chase 追逐 追擊
+chat 聊天 閒談
+cheap 便宜
+cheat 欺騙 作弊 騙取 欺詐 行騙 矇騙 哄騙 作假 欺矇 欺哄 蒙哄
+cheater  騙子
+check 檢查 檢驗 支票 查一查 把脈
+cheek 腮幫子
+cheer 喝采 歡呼 高興
+cheerful 快活
+cheese 乳酪 乾酪
+chemist 化學 化學家
+cherry 櫻桃
+chest 胸 櫃
+chestnut 慄子
+chicago 芝加哥
+chicken 雞 雞肉
+chief 首席 長官 領袖 頭子 督辦
+child 兒童 孩子
+chile 智利
+chimney 囪 煙囪
+chimpanzee 黑猩猩
+chin 下巴 下齶 頦
+china 中國 天朝 吃拿
+chinese 漢字 中文 漢語 中國人
+chip 芯片
+chlorine 氯
+choice 選擇 選項
+choke 窒息 塞住
+cholesterol 膽固醇
+choose 挑選 選擇
+chop 切細 排骨
+christ 基督
+christmas 聖誕節
+church 教堂
+cigar 雪茄 雪茄煙
+cigarette 香煙
+circle 圓 循環
+circuit 電路 線路
+citizen 市民
+city 城市 都市 城 市
+civil 國內 市民
+civilization 文明
+claim 號稱 主張
+clarkson 克拉克森大學
+class 階級 年級
+classic 經典 古典
+classmate 同學
+classroom 教室
+clause 從句 短句
+claw 爪
+clay 泥土 粘土
+clean 乾淨 清潔 整潔
+cleaning 掃除
+clear 清楚 澄清
+clearly 顯然 明明
+clerk 書記 店員
+clever 聰明 伶俐 巧妙 機敏 靈巧
+client 客戶 顧客 前端 客戶端
+cliff 斷崖 絕壁
+climate 氣候 水土
+climax 性高潮
+climb 爬 攀登
+climber 登山者
+cling 粘住 固守
+clipboard 剪貼板
+clitoris 陰蒂
+close 關 關閉 接近
+cloth 衣服 衣裳
+cloud 雲 雲輸入
+cloudy 陰天
+clown 小丑
+club 俱樂部
+cmdline 命令行
+coach 教練 指導
+coal 煤
+coat 上衣
+cock 雄雞
+cocoon 繭
+code 密碼 程式
+coding 編程
+coercion 強迫 壓迫 控制 制止
+coffee 咖啡
+cognize 認識
+coil 卷線
+cold 冷 涼 傷風 感冒 寒冷
+coldwar 冷戰
+collapse 崩潰
+collar 衣領
+colleague 同事
+collect 收集
+college 學院
+collide 碰撞 相撞 相碰 衝撞
+colombia 哥倫比亞
+colony 殖民地
+semicolon 分號
+colorado 科羅拉多
+columbia 哥倫比亞
+column 列
+comb 梳 雞冠
+combine 組合 結合 聯合
+come 來
+comfortable 舒適 安慰 安樂
+comma 逗號 逗點
+command 指揮 命令
+comment 【評論】 評論
+commercial 商業 通商
+commit 為作 委員
+common 公共 共同 普通
+communication 通訊
+communist 共產主義 共產黨
+company 公司 伴侶 夥伴
+compare 比較 對照
+compass 指南針 羅盤 圓規
+compatible 兼容
+compete 競爭 競賽
+competition 比賽
+competitor 競爭者
+compile 編輯 編譯
+compiler 編譯器
+complain 埋怨 牢騷 訴苦
+complex 複雜 錯綜複雜
+compliment 恭賀 賀詞 贊詞
+component 元件
+compose 作文 作曲
+compress 壓縮 壓緊
+compute 計算
+computer 電腦 計算機
+comrade 同志 戰友
+concept 概念
+concern 音樂會
+conclusion 結論
+concord 和諧
+concubine 妾
+condense 凝結
+condition 條件 狀態
+condom 安全套 避孕套
+conference 會議
+confine 監禁 限制
+confirm 確認
+conflict 衝突 矛盾
+confucious 孔夫子
+confuse 混淆
+congratulation 祝賀
+conjuncture 結合 連接詞
+connect 接合 聯絡
+connecticut 康涅狄格
+conquer 征服 獲得
+consent 同意 答應
+consider 考慮 認為
+consonant 輔音
+constant 恆定
+constitution 憲法
+construction 建造 構造
+consult 商量 請教
+contagious 傳染
+contain 包含 含有 容納
+content 內容 滿足
+continent 大陸
+continue 連續
+contour 輪廓
+contradict 矛盾
+contrast 相反 反對
+contribution 貢獻
+control 控制
+convenience 方便 適宜 便利
+convenient 方便的 省事的 便利的
+conversation 會話
+convert 變換 轉換
+convex 凸
+cook 廚師 烹調
+cool 酷 冷靜
+coolie  苦力
+cooperation 協作 合作
+copper 銅 銅幣
+copulate 交媾 性交
+copy 複製 拷貝 副本 抄件
+copycat 山寨 複印機
+copypaste 複製粘貼
+copyright 版權
+cord 電線 繩子
+core 核心 磁心 鐵心 果心 型心
+cork 軟木
+corn 玉米 穀類
+cornell 康奈爾大學
+corner 角落 拐角 旮旯
+corpus 文集 屍體 本金
+correct 正確 合適 改正 糾正
+correspond 對應 相應
+cosmetic 化妝品 美容的
+cost 代價 成本
+costly 昂貴
+cot 嬰兒床 娃娃床
+cottage 別墅
+cottage 茅屋 茅舍 別墅
+cotton 棉花 綿
+couch 睡椅
+cough 咳嗽
+council 會議
+counsel 勸告 商量 忠告
+count 計數 計算
+counter 櫃檯 計算器
+country 國 國家 鄉村 農村
+couple 配偶 伴侶 夫妻
+couplet 對聯
+courage 勇敢 勇氣
+courier 信使
+course 方向 課程 過程
+court 朝廷 法庭 院子
+cousin 堂兄
+cover 封面 覆蓋 遮蓋
+cow 乳牛 母牛 奶牛 不法奶牛 牛氣沖天
+coward 懦夫 膽小鬼
+cowboy 牛郎 牧童
+crab 螃蟹 大閘蟹
+crack 敲破 爆裂
+cracker 爆竹 餅乾
+crane 鸛 鶴
+crash 碎掉
+crayon 臘筆 色筆
+create 創造 創建 建立
+credit 信用 信譽 信用卡
+crew 船員
+crime 犯罪 罪惡
+crisis 危機 恐慌
+critic 臨界 危急 批評
+croatia 克羅地亞
+crock 缶 罐
+crook 彎曲
+crop 農作物 收成
+cross 十字 交叉 越過
+crowd 一群 擁擠 群眾
+crown 王冠
+cruel 殘酷
+cruise 巡洋艦
+crusade 十字軍東征
+crush 壓壞 壓碎
+cry 哭 喊
+crystal 水晶 結晶
+cuba 古巴
+cube 立方
+cucumber 黃瓜
+cultivate 培養 栽培 耕作
+culture 文化
+cunning 狡猾 詭詐
+cup 茶杯 獎盃 盃 杯
+cure 醫治 治療
+curious 好奇 好奇心
+curl 卷髮 卷毛
+current 當前 現時 通用 通貨 貨幣 流通
+curry 咖喱
+cursor 光標 游標
+curtain 窗簾
+curve 彎曲 曲線
+cushion 墊 墊子
+custom 海關 關稅 習慣 風俗 慣例
+customer 顧客 主顧
+cut 切 割
+cycle 循環 週期
+dad 爸爸 父親
+daily 日報 每天
+daisy 雛菊
+damage 損壞
+damp 濕氣 潮濕
+dance 舞 舞會 跳舞
+danger 危險
+dare 敢 膽敢
+dark 黑暗
+darling 愛人 心愛
+dart 投擲 標槍 突進
+darwin 達爾文
+dash 猛衝
+data 數據
+database 數據庫 數據倉庫
+date 日期
+daughter 女兒
+dawn 天亮 曙光 黎明
+daytime 晝 日間 白天
+dead 死 枯死
+deaf 聾
+deal 交易
+dealer 商人
+dear 親愛 寶貴
+death 死亡
+debt 借款 債務 恩義
+decide 決定
+decision 決心
+deck 甲板
+declare 宣言 聲明
+decrease 減少
+deed 行為
+deep 深
+deer 鹿
+default 缺省 默認
+defeat 擊破 打敗 挫敗
+defence 防守
+defend 防禦 保護 辯護
+define 定義
+definition 定義
+degree 學位 度 度數 程度 ℃
+delaware 特拉華
+delegate 代表
+delete 刪除 刪掉 砍掉
+delight 歡喜
+delta δ Δ
+demand 需要 要求
+demeanor 風度
+demero 杜冷丁
+demo 演示
+denmark 丹麥
+department 部門
+depend 依賴 信任
+depth 深度
+dermatology 皮膚科
+descent 降下 下來
+describe 敘述 說明 陳述
+desert 沙漠
+design 設計 圖樣 企圖
+desire 願望
+desk 書桌 寫字檯
+despair 絕望 斷念
+destroy 破壞 滅亡
+detail 細節 詳細 詳盡
+detention 留校 拘留 扣押 監禁 留堂
+determine 決定 判斷 確定
+develop 發展 發達 顯像
+device 設備
+devil 魔鬼 惡魔
+dew 露水
+dialog 對話
+diamond 鑽石
+diary 日記 日誌 記事簿
+dictate 聽寫 口述
+dictionary 字典 詞典 辭典
+die 逝世 亡 喪
+diet 飲食 減肥
+difference 不同 區別 差異 差別
+different 不同的
+difficult 困難 難點
+dig 挖掘 挖 掘
+digit 數 數字 數碼
+dilemma 進退兩難 窘境 困境
+diligence 勤勉 用功
+diligent 勤奮
+dinner 晚飯 晚餐 正餐
+dip 浸一下 泡漬
+dir 目錄
+direct 直接 指導
+direction 方向
+directory 目錄
+dirt 污泥 污物
+dirty 髒 骯髒 下流
+disable 殘廢 無能
+disappear 消失
+disaster 災難
+disc 磁盤
+discharge 卸
+disclaimer 免責聲明
+discover 發現 查出 檢測 暴露
+discuss 討論 辯論 商量
+disease 疾病
+dish 碟子
+dislike 嫌棄 嫌惡 反感
+disney 迪士尼樂園
+disorder 雜亂
+display 顯示
+dissolve 溶解
+distance 距離 遠方 遠隔
+distinct 區別
+district 地區
+disturb 擾亂 騷擾 妨礙
+dive 跳水 潛水
+divide 劃分 隔開
+divorce 離婚 分離
+djibouti 吉布提
+dna 脫氧核糖核酸
+do 作 做 乾 搞
+dock 造船廠 船塢
+doctor 博士 醫生
+dog 狗 犬
+dog101 一零一忠狗
+dollar 美圓 美元 ＄
+dominica 多米尼加
+dominican 多米尼加
+domino 多米諾骨牌 多米諾效應
+donkey 驢 驢子
+door 門 大門
+dose 劑
+dot 句號 點
+dots 點橫豎撇捺 點橫豎撇折
+double 倍
+doubt 懷疑 犯疑
+doubtful 可疑的
+dove 鴿子
+down 下 向下
+download 下載
+downstair 樓下
+dozen 一打
+drag 拖 牽
+dragon 龍
+drain 枯乾
+drama 劇本 戲劇
+drawer 屜
+dread 害怕 恐怖
+dreadful 可怕 討厭
+dream 夢 夢想 神女生涯原是夢
+dress 衣服
+drill 訓練 鑽孔機
+drink 飲料 喝 飲
+drive 駕駛 驅逐
+driver 司機
+drop 滴 水滴 滴下
+drug 藥品
+drum 鼓
+drunkard 酒鬼
+dry 乾燥
+duck 鴨
+due 到期 應付 正當
+duly 及時 正好 適當
+dumb 啞
+dummy 傻瓜
+dumpling 餃子 鍋貼
+dupe 易受愚弄的人 欺騙 愚弄
+durex 杜蕾斯 安全套
+dust 灰 塵 塵土 塵埃 灰塵
+duty 義務 關稅 職務
+dwarf 侏儒 矮子
+dynamic 動態 動態
+each 各自 每個
+eager 渴望 熱心
+eagle 鷹
+ear 耳朵
+early 早
+earn 賺得
+earnest 正經 熱心
+earth 地球 土地 大地
+earthquake 地震
+easy 容易
+eat 吃食 吃 喫
+echo 共鳴 反響 回聲
+edge 刀口 邊緣
+edit 編輯
+editor 編輯器 文本編輯器
+edu 教育 教學
+education 教育 教學
+effect 效應 效果 有效
+efficiency 效率
+effort 努力 盡力
+eg 例如
+egg 蛋 雞蛋 彩蛋 王八蛋 網八蛋
+egypt 埃及
+einstein 愛因斯坦
+election 選舉
+electricity 電
+electron 電子
+element 成分 元素 要素
+elephant 象
+elevator 電梯
+eliminate 免除 省去 免除
+ellipse 橢
+else 另 此外
+elsewhere 在別處
+email 電郵 電子郵件 電子郵箱
+embassy 大使館
+embed 內嵌 鑲嵌
+embedded 嵌入式
+emerge 出現
+emperor 皇帝
+empire 帝國
+employ 雇用 使用
+empty 空 空虛
+enable 能夠
+encoding 編碼
+end 結束
+endure 忍耐 持久
+enemy 敵人 仇敵
+energy 能量 能源
+engage 訂婚 約會 約束 婚約
+engine 引擎 發動機 火車頭
+engineer 工程師 技師
+england 英國
+english 英文 英語 英國
+enjoy 欣賞 享受 享有 享用
+enough 充足 足夠
+enter 迴車 進入
+enterprise 企業
+entertain 享樂 娛樂
+entire 全部 完全 全體
+entrance 入場 進口
+env 環境
+envelope 信封 包絡
+environment 環境
+envy 妒忌 羡慕
+eq 情商
+equal 等於 相等 公平
+era 時代
+erase 擦掉 刪掉 抹除
+eraser 橡皮
+errand 差使
+error 錯 錯誤 過失
+escape 逃避 逸出
+escrow 第三方擔保 附帶條件委付蓋印契約
+especial 特別 尤其
+esteem 尊重
+estimate 估計 估價
+estonia 愛沙尼亞
+etc 等等
+ethiopia 埃塞俄比亞
+etymology 詞源 語源
+eu 歐共體
+europe 歐洲
+euthoria 亢奮 極度愉快 極度興奮
+evaluate 估計 評價
+eve 夕 暮
+even 即使 甚至
+evening 晚上好 傍晚 黃昏
+event 事件 大事
+every 每個
+everybody 每個人
+everything 所有 全體 凡是
+everywhere 到處 哪兒都
+evidence 證據
+evil 惡 禍害 弊病 邪惡
+exact 精確 正確
+exactly 正好
+examine 測驗 調查
+example 例如 例子
+exceed 勝過 超過
+excel 勝過
+excellent 佳 優秀 卓越
+except 除了 之外 例外
+excess 過剩 超過
+exchange 兌換 交換 交易所
+excite 刺激 激動
+exclamation 感嘆號
+excursion 旅行 遠足
+excuse 原諒 辯解 道歉 擋箭牌
+execute 執行
+exercise 練習 鍛煉 運動
+exhaust 竭盡 耗盡
+exhibit 展覽 陳列
+exist 存在
+expand 擴展
+expect 期望 預期 希望 期待 預料 想到 期盼 料到
+expense 損失 費用
+expensive 貴
+experience 經驗
+experiment 實驗
+expert 專家
+explain 解釋
+explore 探索 查勘
+express 快車 表現 表達
+extend 延伸 擴充
+extenuating 情有可原
+extinguish 滅
+extra 特別 額外 號外
+eye 眼 眼睛
+eyelid 瞼
+fable 寓言 謊言
+face 臉 面孔
+fact 事實
+factory 廠 工廠 製造廠
+fade 淡薄 褪色 衰老
+failure 失敗 缺少 破產
+fair 博覽會 美麗 潔白
+fairy 仙女 妖精
+fall 瀑布 倒塌 掉下 跌到 跌落 秋 墜
+false 假 虛假 虛偽 偽造的
+familiar 熟悉 親密
+family 家庭 家眷 家族
+famous 著名 有名
+fan 扇子
+fans 粉絲
+far 遙遠 迢迢
+fare 車費
+farm 農場 田地
+farmer 農夫 農民 農場主
+farther 更遠 遠一點
+fast 迅速 結實 牢固 快 捷
+fasten 綁 綁札
+fat 肥 肥胖 減肥 脂肪
+fatal 致命
+fatchoy 發財
+fate 命運 宿命
+father 父親 爸爸
+fault 缺點 過失
+fax 傳真
+fear 害怕 擔心
+fearful 恐慌性
+feather 羽毛
+feature 功能
+fee 費
+feeble 虛弱
+feed 喂養
+feedback 反饋 回饋
+feel 感覺 摸索
+feeling 情緒
+feet 英尺
+fellow 夥伴 傢伙
+female 女 雌
+festival 節日
+fetch 拿取
+fetish 戀物癖
+fever 發熱 發燒
+few 少量 少許 一點
+fiddle 小提琴 撥弄 擺弄
+field 田野 曠野
+fierce 凶 猛烈 凶猛
+fight 打架 戰鬥 奮鬥 數字 圖形
+fiji 斐濟
+file 文件 文本文件
+fill 填充 充滿
+filter 過濾 過濾器
+fin 魚翅 魚鰭
+final 最後
+finally 終於
+finance 金融
+find 找 發現 找到 發覺 尋找
+fine 美好 優良 細
+finger 手指
+finish 結束 終結 完成 做完
+finland 芬蘭
+fire 火 火災
+firefox 火狐
+fireman 消防員
+firewall 防火墻
+firm 堅固 商行
+firmware 固件
+firsttime 第一次
+fish 魚 釣魚
+fist 拳頭
+fit 適當 適合
+fix 固定 安裝
+flack 高射炮 嚴厲批評 宣傳員
+flag 旗幟 標識
+flame 火苗 火焰 熾
+flash 閃光 瞬間
+flat 平地 扁平
+flattery 阿諛 諂媚
+flesh 肌肉
+flexible 靈活
+flirt 調情 挑逗 吊膀子 眉來眼去 玩弄
+float 浮起 漂浮
+flood 洪水 大量
+floor 地板 層
+florida 佛羅裡達
+flour 面 麵粉
+flow 流 流動
+flower 花 鮮花
+fluorine 氟
+flush 奔流 汜濫 臉紅
+flutter 飛散 鼓翼
+fly 飛 蒼蠅 飄揚
+foam 泡沫
+focus 集中 只顧
+fog 霧
+fold 摺疊 摺痕
+folder 目錄 文件夾 卷宗
+follow 下述 後面
+following 以下
+font 字體
+food 食品 糧食 食物
+fool 蠢豬 傻瓜 笨人 傻子 愚蠢
+foot 腳 呎 足
+for 為了 對於
+force 逼 強迫
+foreigner 外國 外國人
+foreplay 前戲
+forest 森林
+forever 永遠 永久
+forget 忘記
+fork 叉
+form 形成 形狀 表格
+formal 形式
+format 格式 正式
+former 前面 前者 前任 以前
+formula 公式 配方
+fort 堡壘
+forth 向前
+fortune 運氣 財產 幸運 好運 僥倖
+forum 論壇
+forward 向前 前進
+found 創立 創設
+fowl 家禽
+fox 狐狸
+frame 框架 結構
+france 法國
+free 自由 解放 免費 空閒
+freeze 凍結 結冰
+freight 船貨 貨運 運費
+french 法文 法語 法國語
+frequency 頻率
+fresh 鮮 新鮮 清爽
+friend 朋友
+friends 朋友們
+friendship 友誼
+fright 恐嚇 恐怖
+frog 蛙 青蛙
+from 從 由
+front 前線 前面
+frost 霜
+fruit 水果 果實 禁果
+fry 油炸 油煎
+fuck 肏 姦 奸 操 性交 交配 交媾
+fuel 燃料
+fun 開心 玩笑 興趣
+function 功能 函數
+fund 基金
+funny 滑稽 有趣
+fur 皮毛 裘皮
+furious 暴怒
+furnish 供給 裝備
+furniture 傢 傢具
+further 並且 更遠 此外
+fury 憤怒 猛烈
+future 前途 將來 未來
+fuzzy 模糊
+gabon 加蓬
+gadfly 牛虻
+gadolinium 釓
+gain 獲取 獲得
+gale 強風
+gallop 奔馳 飛跑
+gambia 岡比亞
+gamble 賭 賭博 賭場
+game 遊戲 獵物 比賽
+gamma γ Γ
+gangster 流氓 痞子 無賴 古惑仔 小混混 二流子 搗蛋鬼 惡棍
+gap 代溝 縫隙 間隙
+garbage 垃圾
+garbled 亂碼
+garden 花園
+gas 氣體
+gate 門閘
+gather 搜集
+gay 快活 同性戀
+gaze 凝視
+gdp 雞的屁 國內生產總值
+geek 技客 奇客
+gem 寶石
+gender 性別
+general 普通 一般 將軍
+generate 生成
+generous 慷慨 豐饒 寬大
+genius 天才
+gentle 斯文 雅致 溫和
+gentleman 先生 紳士
+geography 地理
+geometry 幾何學
+georgia 佐治亞 格魯吉亞
+german 德文 德語
+germany 德國
+get 獲得 得到
+ghost 鬼 鬼妹 鬼姥 鬼婆 鬼門關 幽靈
+giant 巨人
+gift 禮物 贈品
+ginger 姜
+girl 女孩 姑娘 妹子
+girlfriend 女朋友
+give 付給
+glad 高興 喜悅 愉快
+glance 瞥見
+glare 閃耀
+glass 玻璃
+glide 滑走
+globe 全球 成球形
+gloom 幽暗 陰沉
+gloomy 憂鬱
+glorious 壯麗
+glory 榮 光榮 繁榮
+glove 手套
+glow 光輝 灼熱 發紅
+glue 膠
+gmt 格林尼治時間
+gnaw 啃咬
+go 去
+gold 金 黃金
+golden 金色的 金黃色的
+goldengate 金門 金門橋
+good 好 妙
+good 良好 優良 拿手 亞克西 合適的 和善的
+goodat 擅長於
+google 谷歌 古狗
+goose 鵝
+gorge 峽
+gorilla 大猩猩
+govern 支配 管制 統治
+government 政府
+grace 優美 恩惠 慈悲
+gracious 莊重 厚道
+grade 等級 程度
+graduate 畢業 漸次 漸漸
+grain 穀類 紋理
+gramma 文法 語法
+grand 偉大 壯麗 雄壯
+grandfather 祖父
+grandmother 祖母
+grandson 孫
+grant 允許 承認 許可
+grape 葡萄
+graph 圖形
+grasp 抓住 握緊
+grass 草 草地
+grateful 感謝
+gratitude 謝意
+grave 嚴肅 嚴重
+great 偉大 巨大
+greece 希臘
+greed 貪心 貪
+greendam 綠壩 綠霸
+grief 傷心 悲傷 不幸
+grind 碾 擂 磨
+groan 呻吟
+grocer 雜貨
+ground 地面 土地
+group 小組 集團
+groupsex 群交 換妻
+grow 生長 長成
+growl 咆哮
+guarantee 保證 包管
+guard 警衛 防守
+guess 猜測 以為 估計
+guest 客人 賓客
+guide 嚮導
+guinea 幾內亞
+gulf 海灣
+gum 口香糖
+gun 槍
+gust 陣風
+guyana 圭亞那
+gym 健身房 體育館
+haagendazs 哈根達斯
+habit 癮 習慣
+habitat 棲息地
+hacker 駭客 黑客
+haha 哈哈 o(∩_∩)o
+hail 高呼
+hair 發 頭髮 頭髮
+haiti 海地
+half 半 一半 半個
+hall 大廳 堂
+ham 火腿
+hamburg 漢堡
+hamburger 漢堡包
+hand 手 掰
+handbag 手提包
+handkerchief 手帕 手絹
+handle 把手 辦理
+handshake 招呼
+handsome 俊俏
+hang 吊 懸
+happen 發生 碰巧
+happiness 幸福
+happy 幸福 高興 性福 快樂 愉快
+happybirthday 祝你生日快樂！
+happynewyear 新年好
+harassment 騷擾 性騷擾
+harbor 海港
+hard 硬 堅硬 拼命
+harden 堅固 頑固
+hardware 硬件
+harm 傷害 損傷
+harmful 有害
+harmless 無害
+harmony 調和 和諧
+harvard 哈佛大學
+harvest 收穫
+has 有
+haste 急速 趕忙
+hasten 催促
+hastily 火急 匆忙
+hat 帽子
+hate 恨 憎恨
+have 有
+hawaii 夏威夷
+he 他
+head 頭 頭顱 首領
+headache 頭痛
+headchop 斬首
+headcut 理髮 剪頭髮
+heal 醫治 治療
+health 健康 健全
+heap 堆積
+hear 聽見 聽聞 聽
+heart 心 心臟
+hearty 懇切 衷心
+heat 加熱
+heater 加熱器 電爐
+heating 暖氣
+heaven 天堂
+heavy 重 沉悶
+hedge 籬笆
+heel 後跟 踵
+height 高地 高度
+helium 氦
+hello 喂 哈囉 你好
+helmet 冑
+help 幫助 幫忙 幫上忙
+hemorrhoidal 痔瘡
+hence 從此 因此 此後
+her 她的
+here 此地 這兒 這裡
+hero 英雄
+hi 嗨 你好
+hide 躲避 隱蔽 隱藏 藏有
+high 高
+higher 更高 越來越高
+highest 最高
+highway 高速公路
+hill 丘山
+him 他
+hind 後面
+hint 暗示 諷示
+hip 屁股
+hire 雇
+his 他的
+hiss 噓噓
+history 歷史
+hit 打擊 打中 命中
+hobby 愛好
+hohhot 呼和浩特
+hold 保持 握
+hole 窟窿 孔穴 洞 穴
+holiday 節日 假日
+holistic 整體 全部
+holistic 整體 整體主義的
+hollow 中空 凹
+hollywood 好萊塢
+holy 神聖 聖
+homework 作業
+honest 誠實 老實 正直
+honey 蜜糖 蜂蜜 蜜蜂
+honor 名譽
+hoop 滕圈 鐵環
+hop 跳躍
+hope 希望 相信
+horizon 地平線
+horn 號角
+hornet 馬蜂 胡蜂
+horrible 可怕 可惡
+horror 恐怖 戰慄
+horse 馬 馬
+hospital 醫院 病房
+host 主人
+hot 熱 熱烈
+hotel 旅館 酒店
+hotkey 快捷鍵 熱鍵
+hottie 辣妹 帥哥
+hour 時 時間 小時
+house 房 房子
+househusband 全職爸爸 家庭婦男 家庭主夫
+housewife 全職媽媽 家庭主婦
+houston 休斯敦
+how 怎麼 如何 多麼 怎麼辦 腫麼辦
+however 然而 但是 可是
+huge 巨大
+hum 哼哼 嗡嗡
+human 人性
+humidity 濕度
+hummer 悍馬
+humor 幽默
+hundred 百 佰
+hungary 匈牙利
+hungry 饑 饑餓 饑荒
+hunt 獵 打獵 搜索
+hunter 獵人
+hurl 拋
+hurricane 颶風 狂飆 颱風 暴風驟雨 龍捲風 急風暴雨
+hurry 匆忙 急忙
+hurt 傷疼
+hush 噓 別作聲 寂靜 沉默
+hushmoney 遮羞費 封口錢
+hydrogen 氫
+ice 冰 甲基苯丙胺 大力丸
+icecream 冰淇淋 雪糕
+icefire 冰火
+iceland 冰島
+icon 偶像 圖標 圖符 圖示
+id 身份證
+idaho 愛達荷
+idea 想法 主觀 觀念 見解 意思
+ideal 理想 觀念
+idiom 成語 習語 方言 土語
+idiot 白痴
+idle 懶惰 無益
+if 如果 倘若 假使
+ignore 忽略 省略
+ill 病 邪惡 疾病
+illinois 伊利諾斯
+illustrate 圖解 插圖 說明
+image 圖像 映像 肖像
+imagine 想像 推測 猜想
+ime 中文輸入法 輸入法 拼音輸入法
+immediate 馬上 立刻
+imperial 帝國主義
+important 重要
+impotence 陽痿
+improve 改良 進步
+inch 英寸
+incline 偏向 傾斜
+include 包括 包含
+increase 增加
+indeed 果真 實在 的確
+independence 獨立
+independent 獨立的
+india 印度
+indiana 印第安納
+indicator 跡象
+indignant 氣憤
+indirect 間接
+individual 各個 個別
+indonesia 印尼 印度尼西亞
+induce 歸納
+indulgence 嗜好
+industrious 勤勉
+industry 工業 刻苦
+inevitable 不可避免 必然
+inexpensive 賤
+infant 嬰 嬰兒
+infect 傳染
+inferior 下輩 劣勢
+inflation 漲價 膨脹
+influence 影響
+info 資訊 信息
+inform 告發 告訴 通知
+information 信息 資訊
+inhibit 禁止
+initiative 倡議 主動 能動性 初步行動
+ink 墨水
+inn 小旅館
+inner 內部 裡面
+innocent 天真 無罪
+input 輸入 輸入法
+inquire 詢問 調查 追問
+insect 蟲 昆蟲
+insert 插入 上字 上屏
+inside 內部
+insist  堅持 咬定
+inspiration 靈感
+install 安裝
+instant 即刻 立即 立刻 實例
+instead 代替 抵作
+institute 機構
+instrument 儀器
+insurance 保險
+insure 保險
+integer 整數
+integrate 集成
+intelligence 智能
+intelligent 知識分子
+intend 打算 想要
+intercourse 性交
+interest 興趣 利息
+interface 接口 界面
+interlock 連鎖 交錯
+internal 內在的 內碼
+international 國際
+internet 互聯網
+interrupt 中斷
+interrupter 中斷器
+interval 區間 間隔
+interview 面試
+into 進入
+introduction 介紹 引導 引言
+invade 侵略
+invent 發明
+invest 投資 花費
+invisible 看不見
+invite 招待 邀請
+involve 牽涉 參與
+iodine 碘
+iowa 衣阿華
+ipo 上市
+iq 智商
+iran 伊朗
+iraq 伊拉克
+ireland 愛爾蘭
+iron 鐵 熨鬥
+is 是
+island 島
+israel 以色列
+it 它
+italy 意大利
+item 條目
+iterate 疊代
+iteration 迭代 複述 復誦
+its 它的
+ivy 常春藤
+ivyleague 常春藤聯盟
+jam 果醬
+jamaica 牙買加
+japan 日本
+japanese 日本人
+jar 瓶 壺 甕 缸
+jaw 顎
+jeans  牛仔 牛仔褲
+jeanswest 真維斯 西部牛仔褲
+jelly 凍膠 果子凍
+jesus 耶穌 耶穌
+jet 噴氣式飛機
+jews 猶太人 猶太裔人
+job 工作
+join 加入 聯接 結合
+joke 笑話 玩笑
+jordan 約旦
+journal 旅行 雜誌
+journey 旅遊 旅程 旅途
+joy 快樂
+jpy 日圓 日元
+judge 判決 判斷 審判官 法官
+judgment 判斷
+juice 果汁 汁
+jump 跳躍 蹦跳
+junction 結
+junkfood 垃圾食品
+just 剛才 恰好 正當
+juyiqi 居移氣，養移體
+karma 因果報應 因果 熱度值
+keen 尖銳 熱心 激烈
+keep 保存 保持 保留
+kentucky 肯塔基
+kenya 肯尼亞
+kettle 水壺
+key 鍵 鑰匙 關鍵
+keyboard 鍵盤
+kick 踢
+kid 小孩
+kidney 腎
+kill 殺 殺死
+killer 殺手
+kilogram 千克
+kiloliter 千升
+kilometer 千米
+kind 種類
+kindle 點火 燃燒 焚燒 煽動
+kindness 親切 仁慈 懇切
+king 國王
+kiss 接吻 親嘴
+kitchen 廚房
+km 千米 公里
+knee 膝蓋 膝關節
+kneel 跪
+knife 刀 餐刀
+knit 編 編織
+knob 鈕
+knock 敲
+know 懂 知道 曉得 了解 認識 認得
+knowledge 知識
+koran 可蘭經
+korea 高麗 韓國 朝鮮 南韓 北韓
+korean 韓文
+kowtow  磕頭
+kowtow 磕頭
+krypton 氪
+kungfu 功夫
+kuwait 科威特
+lab 實驗室
+label 標籤 題簽
+labor 勞動
+lace 帶子 花邊
+lack 缺乏 不夠
+lad 小夥子
+lady 女士 婦人
+lake 湖澤 湖
+lamb 羊肉 羊羔 小羊
+lambda λ Λ
+lame 殘廢
+lamp 燈
+land 土地 陸地
+landscape 風景
+lane 小徑 胡同
+language 語言
+lantern 元宵 手燈 燈籠 街燈
+laptop 手提電腦 筆記本電腦
+large 廣大 寬闊
+last 延續 持續 最後
+lasvegas 拉斯維加斯
+late 後 晚 遲
+lately 最近 近來
+later 後來 更遲
+latest 最新
+latitude 緯度
+latter 後者 後面 近來
+latvia 拉脫維亞
+laugh 笑 嘲笑
+laughter 笑聲
+launch 下水 發射
+law 法 法律 法則
+lawn 草地
+lawyer 律師 法律家
+lay 放下 生蛋
+layoff 裁員 炒魷魚
+lazy 懶 惰 懶惰
+lead 鉛 引導 領導
+leaf 葉 葉子
+leak 泄露 漏洞
+lean 靠
+leap 閏 跳動
+learn 學習
+least 最小
+leave 離開 出發 遺留
+lebanon 黎巴嫩
+lecture 講義 講演
+left 左 左邊
+leg 腿
+legend 傳說
+leica 徠卡
+leisure 空閒 擂台 閒暇
+lemon 檸檬
+lend 借貸
+length 長度
+lenovo 聯想
+lesotho 萊索托
+less 更小 較小
+lesson 課 教訓
+lest 免得
+let 讓 允許
+lets 讓我們
+letter 字母 信 信件
+level 水平 平面
+levis 李維斯 牛仔褲
+levitra 德國偉哥 艾力達
+lexus 凌志
+lhasa 拉薩
+library 圖書館
+libyan 利比亞
+lid 蓋 蓋子
+life 生命 生活
+lift 舉起 提起
+light 光亮 光 輕
+like 喜歡 好像 立刻
+likely 大概 可能
+limb 四肢 手足
+limit 極限 有限 範圍 限制
+line 線
+link 連接 連環
+lion 獅 獅子
+lip 脣 嘴脣 陰脣
+liquid 液體
+list 列表 名單
+listen 聽 傾聽
+lithuania 立陶宛
+litigation 訴訟 打官司
+little 少量 少許 小 少
+live 居住 活
+lively 熱鬧 活潑 爽快 輕快 明快
+loach 鰍
+load 裝載 負荷 貨物
+loan 貸款
+lobby 廳
+local 本地
+lock 鎖
+lodge 小屋 投宿
+logic 邏輯
+logo 徽標
+london 倫敦
+lonely 孤獨 寂寞
+long 長
+longer 更長 越來越長
+look 看 見 瞧 看見
+loose 松 松弛 不緊
+lord 君主 貴族 領主
+lose 輸 輸掉 丟掉
+loss 遺失 損失
+lot 大批 大量
+loud 大聲
+loudspeaker 喇叭
+louisiana 路易斯安那
+love 愛 情 愛情
+lovely 可愛 美好
+lover 情人 愛人
+low 低
+lower 更低 越來越低
+lowest 最低
+luck 運氣 幸運
+lucky 饒幸
+luggage 行李
+lummox 傻大個兒 笨伯 愚蠢不中用者
+lunch 午餐 午飯
+lung 肺
+macau 澳門
+macedonia 馬其頓
+machine 機器
+macro 宏 宏觀
+mad 瘋狂
+madam 太太 夫人
+madman 狂人 瘋子
+magic 魔術 魔術 魔法
+magnet 磁
+magpie 鵲
+mahjong 麻將
+maid 姑娘 少女
+maiden 閨女
+mail 寄郵 郵寄 寄信
+main 主要
+maine 緬因
+maintain 維持
+major 多數
+make 製造
+malaria 瘧
+malawi 馬拉維
+malaysia 馬來西亞
+maldives 馬爾代夫
+male 男 雄
+mall 購物中心 林蔭路
+malt 麥芽
+malta 馬耳他
+man 人 男人
+manage 管理
+manager 經理
+mandarine 國語 普通話 中國官話 馬褂
+mankind 人類
+manner 方法 樣式 禮儀
+manual 說明書 手動
+manufacture 制 製造
+many 很多 許多 多數
+map 地圖
+maple 楓
+mark 分數 標記
+market 市場
+marry 結婚
+marx 馬克思 馬克思主義
+maryland 馬裡蘭
+mask 屏蔽 掩膜 面具
+mass 群眾
+massacre 殺人狂
+massage 按摩
+mast 桅柱 桅
+master 師傅 高手 主人 大師 牛人 掌握 控制
+masturbation 打飛機
+match 匹配 火柴
+material 材料 物質 唯物
+math 數學
+mathematics 數學
+matrix 矩陣 子宮 模型 模子 銅模
+matter 事情 物質
+mattress 床墊 空氣墊
+mauritius 毛裡求斯
+mayer 市長
+mayor 市長
+me 我
+meadow 牧場 草原 草地
+meal 餐 飲食
+mean 平均
+meaning 意思 意味
+meantime 同時
+measure 測量
+meat 肉
+medal 獎章
+medicine 藥 醫藥 醫學
+medium 媒介 介質
+meet 遇見 會見 迎接
+meeting 會議 集會
+melt 熔融 溶化 融化
+member 會員
+memo 備忘 備忘錄 待辦事項 便箋
+memoranda 備忘錄
+memory 記憶 內存 記憶體
+mend 修補 訂正 改訂
+mention 談到 提及
+mercury 汞
+mere 不過 僅僅
+merge 浸淹
+merry 快活
+message 消息
+metal 金屬
+meter 米 公尺
+method 方式 方案 方法
+mexico 墨西哥
+miami 邁阿密
+michigan 密執安
+micro 微 微觀
+microsoft 微軟
+middle 中央 中間 中學
+midnight 午夜
+mild 溫和 柔和
+mile 英里 英哩
+milestone 里程碑
+milk 奶 牛奶
+milligram 毫克
+milliliter 毫升
+millimeter 毫米
+million 兆 百萬
+millionaire 百萬富翁
+millipede 馬陸 千足蟲
+mimic 模仿 模擬
+mind 意志 智力
+mine 我的 水雷 礦山 礦
+mineral 礦物
+mingle 混合
+minnesota 明尼蘇達
+minor 少數 較小
+minus 減
+minute 分 分鐘 片刻 一會兒
+mirror 鏡 鏡子
+miscellaneous 雜七雜八 雜項
+misfortune 倒運
+miss 小姐 密斯 失去 想念
+mississippi 密西西比
+missouri 密蘇裡
+mistake 錯誤
+mister 先生
+mit 麻省理工學院
+mix 混合
+mixture 混合物
+mode 方式 模式 模型
+model 模型 模範 典範 型號
+modern 摩登 現代 近代
+modify 修改 改進
+module 模塊
+moist 潤濕 水分 濕氣 潮濕
+moko 美空
+molecule 分子
+mom 媽 媽媽
+moment 一瞬間 剎那 片刻
+monaco 摩納哥
+money 錢 金錢
+mongolia 蒙古
+monitor 監視器
+monkey 猴子
+montana 蒙大拿
+month 月 月份
+mood 心情 情緒 語氣
+moon 月 月亮
+mooncake 月餅
+moral 寓意 教訓 道德
+morale 士氣 紀律
+more 更加 更多 較多 越越
+morning 早上 上午 拂曉 早上好 晨 朝
+morocco 摩洛哥
+mosquito 蚊
+moss 苔蘚
+most 最
+mother 母親 媽 娘
+motion 舉動 行動 轉動
+motor 馬達 發動機
+motorcycle 摩托車
+mountain 山 山脈
+mourn 哀悼 悲傷
+mouse 老鼠 耗子 鼠標
+mouth 口 嘴
+move 移動 運動
+movement 運動
+movie 電影
+mrs 太太 夫人
+much 大量 很多 許多
+mud 泥
+murder 謀殺 殺人 殺害
+murmur 發牢騷 訴怨
+museum 博物館
+music 音樂 樂
+muslim 穆斯林
+must 必須 必需 必要
+mutual 共同 相互
+my 我的
+myanmar 緬甸
+myself 我自己
+nagoya 名古屋
+nail 釘 釘子 趾甲 指甲
+nake 裸 裸體 裸露
+naming 名 名字 姓名 名稱 命名
+narcissism 自戀 自賞 自我陶醉
+narrow 狹隘 狹窄
+nasty 骯髒 卑鄙 討厭
+nation 國家 民族
+native 土產 本地
+natural 自然的
+nature 自然 天性 性質
+navy 軍艦 海軍
+nazi 卍 納粹
+near 接近 附近
+nearly 幾乎 差不多 近乎
+nebraska 內布拉斯加
+necessary 必要的 必須的
+neck 頸 脖子
+need 需要 要求
+needle 針
+negative 負 非
+neglect 不顧 忽略 疏忽
+neighbor 鄰居
+neither 既不 又不
+neon 氖
+nepal 尼泊爾
+nephew 侄子 外甥
+nest 巢 窩
+net 網
+netherlands 荷蘭
+network 網絡 聯網
+nevada 內華達
+never 永不 從不 決不 未曾
+new 新 新的
+newest 最新
+newhampshire 新罕布什爾
+newjersey 新澤西
+newmexico 新墨西哥
+news 新聞 消息
+newspaper 報紙
+newton 牛頓
+newyork 紐約
+newzealand 新西蘭
+next 下次 其次
+nfc 近場通信 近距離無線通信
+nice 美好 善良
+niece 外甥女 侄女
+niger 尼日爾
+nigeria 尼日利亞
+night 夜晚 晚上
+nike 耐克
+nitrogen 氮
+no 沒有
+noble 清高 貴族 高貴
+nobody 沒人
+node 節點
+noise 噪音 噪聲 吵鬧 嘈雜
+none 沒人 沒有
+nonsense 廢話 胡扯 荒唐
+noon 中午 正午
+nor 也不
+normal 正常
+northcarolina 北卡羅來納
+northdakota 北達科他
+norway 挪威
+nose 鼻 鼻子
+not 不 沒有
+note 【注】 注意 備忘錄 筆記
+notebook 筆記簿 筆記本電腦
+notice 注意 公告 通知
+novel 小說 新奇
+now   現在 inow
+today 今天 itoday
+nude 裸 裸體 裸妹
+number 數字 號碼
+numerous 許多 眾多
+nurse 護士 保姆 姆媽 保育員
+nurser 托兒所 養殖場 苗床
+nut 堅果
+nutty 堅果味的 瘋瘋癲癲的
+nylon 尼龍
+oak 橡樹 槳
+obama 奧巴馬 歐巴馬
+obey 順從 服從 聽從
+object 物體 事物
+obligatory 強迫
+obscene 淫穢 淫穢
+observe 遵守 觀察
+obsolete 廢棄
+obstacle 障礙 絆腳石
+obtain 獲得 得到
+obvious 明白 顯然
+occupy 占領
+occur 發生 想起
+ocd 強迫症
+ocean 海洋 洋
+odd 奇怪 零碎
+ofcourse 當然
+off 離開 那邊
+offer 提供 奉獻
+office 辦公室 辦事處
+officer 職員
+official 官方
+offline 離線
+often 經常 常常 時常 往往 每每 不時
+ohio 俄亥俄
+oil 油
+oklahoma 俄克拉何馬
+old 老 舊 年老
+oldman 老翁
+olive 撖欖
+olympic 奧林匹克
+oman 阿曼
+omega ω Ω
+omg 我的天哪
+ominous 不吉利
+omit 省略 遺漏 刪去
+omni 全方位 萬能補全 智能補全
+on 上面
+once 一旦 從前
+online 在線
+only 只有 唯一
+ons 一夜情
+opaque 不透明
+opec 歐佩克
+open 打開 開 開啟
+opera 歌劇
+operate 操作 動作 開刀 手術
+operater 調度員
+operation 手術 操作
+opportunity 機會 機遇 時機
+oppose 反對 反抗
+opposite 對面 相反 相對
+optimum 最優 最佳
+option 選項 任選
+or 或 或者 或許 否則
+oracle 甲骨文
+orange 桔子 橙子 橘子
+orangeade 橘子水
+order 定購 順序 次序 秩序 排序 命令
+ordinary 普通 平凡
+oregon 俄勒岡
+organ 器官 風琴
+organization 組織
+orgasm 情慾高潮
+origin 出身 原點 最初 獨創 由來 起源
+os 操作系統
+oscillator 振盪器
+oslo 奧斯陸
+other 別 其他 另外 別人
+otherwise 否則
+ottoman 奧斯曼 鄂圖曼
+ought 應該
+our 我們的
+out 出 出外
+outdoor 戶外
+outline 輪廓 梗概
+output 輸出
+outside 外面 外邊
+outstand 突出
+outward 外表 向外
+oven 爐灶
+over 越
+overcome 打敗 克服
+overcover 外套 大衣
+overflow 溢出
+overlap 重疊
+overtake 追上
+overwork 過勞
+owe 欠債
+own 擁有
+oxygen 氧
+pace 步伐
+pacific 太平洋
+pack 包 填裝
+package 包裝 包裹
+pad 墊 墊子
+page 頁
+pain 痛苦 疼痛 辛苦
+paint 油漆
+painter 畫家
+painting 油畫 刷漆
+pair 雙
+pakistan 巴基斯坦
+palau 帕勞
+pale 發青 蒼白
+palm 手掌 棕櫚 奔邁
+pan 鍋
+panama 巴拿馬
+panda 熊貓 貓熊
+pandora 潘多拉 潘多拉魔盒
+panorama 全景 全景畫 全景照片
+paparazzi 狗仔隊
+paper 紙
+parable 寓言
+parade 檢閱
+paradigm 範例
+paradox 悖論 吊詭
+paragraph 段
+paraguay 巴拉圭
+parallel 平行
+parameter 參數
+paranoid 偏執狂 妄想症患者
+parcel 包裹
+pardon 原諒 寬恕
+parents 父母 雙親
+paris 巴黎
+park 公園
+parliament 議會
+parlor 客廳 坐談室
+parsimony 吝嗇 節儉
+part 分開 部分
+particular 特定 特殊
+partly 部分 多少
+party 派對 晚會
+pass 通過 走過
+passage 通路 通行
+passenger 旅客 乘客
+past 過去 往事
+paste 粘貼
+pasture 牧草 牧場
+patent 專利
+path 途徑 小路 徑
+patience 耐心 耐性 忍耐
+patient 病人 患者 耐煩 耐得煩
+pattern 模式 圖像
+pave 鋪路
+pay 支付
+paypal 貝寶
+pea 豌豆
+peace 和平
+peach 桃
+peacock 孔雀
+peanut 花生
+pear 梨子 鴨梨
+peculiar 獨特 特有
+pedophilia 戀童癖
+peep 偷窺 窺視 偷看
+peg 塞子 木釘
+pen 筆
+pencil 鉛筆
+penis 屌 陰莖 命根
+pennsylvania 賓夕法尼亞
+penny 輔幣 辨士
+peon 日工 雇農 聽差
+people 人民 人們
+perceive 知覺 看出 理會
+percent 比率 百分率 百分比
+percept 理解
+perfect 完全 完成 完美
+perform 實行 表演 節目 性能
+perhaps 或許 多半
+period 句號 週期 期間
+peritonsillar 扁桃體
+permanent 恆 永久
+permit 允許 許可 容許 准許
+persevere 孜孜不倦 不屈不撓
+persist 堅持 固執 硬說
+person 人
+peru 秘魯
+pet 寵物 愛畜
+petn 季戊四醇
+pfizer 輝瑞
+phone 電話
+phase 相位
+phd 博士 博士學位
+philippines 菲律賓
+philosophy 哲學
+phoenix 鳳
+phosphate 螢光
+phosphorus 磷
+photo 相片 照像
+phrase 詞組 短語
+physics 物理學
+piano 鋼琴
+pick 揀 摘
+pickle 泡菜 鹹菜 醃黃瓜
+picnic 郊遊
+picture 圖片 相片 圖畫
+pie 餡餅
+pig 豬 豬玀
+pigeon 鴿子
+pile 堆積
+pillar 頂梁柱 支柱 柱子 柱石
+pillow 枕頭
+pine 松樹
+pineapple 菠蘿 鳳梨
+pipal 菩提樹
+pit 坑 陷井
+pity 可憐 憐憫 遺憾
+pivot 樞軸 支點 中心 核心
+pixel 像素
+pizza 比薩 比薩餅
+place 地點 地方 場所
+plagiary 抄襲 剽竊 作弊 剿襲 剽襲
+plain 樸素 平坦 單色
+plan 計劃
+planet 行星
+plant 植物
+plastic 塑料
+plat 平台
+plate 底片 板 碟
+platform 月台
+play 玩 玩耍 演奏
+player 玩家 玩法
+pleasant 舒適 愉快
+please 請
+pleasure 快樂 高興
+plenty 豐富
+plot 情節 陰謀 策劃
+plough 犁 耕怍
+plug 插入 插塞 插上
+plugin 插件 插入
+plugplay 即插即用
+plum 李子 梅子
+plumb 測水錘 探測 垂直 鉛直
+pocket 衣袋
+poem 詩 詩歌
+poet 詩人
+point 指示 指出 點
+poison 毒
+poker 撲克
+poland 波蘭
+pole 極點 極 竿
+police 警察
+policer 派出所
+policy 政策
+polish 光澤 擦亮 磨光
+polite 斯文 禮貌
+ponzi 龐氏騙局
+pool 池
+pool 游泳池 水坑
+poor 窮 可憐 貧窮
+popcorn 爆米花 爆玉米花
+poppy 罌粟花
+popular 流行 普及 通俗
+population 人口
+pork 豬肉
+porsche 保時捷
+port 港口
+portion 分配 部分
+portrait 肖像 描寫 形像
+portugal 葡萄牙
+position 位置 地位 立場
+possess 具有 占有 所有物 據有 財產
+possible 可能 靠譜
+post 崗位 郵件
+postage 郵票
+postbox 郵箱
+postcard 明信片
+postman 郵遞員
+postoffice 郵政局
+potato 土豆 馬鈴薯
+potential 潛能
+pound 英鎊
+pour 注 灌
+pour 灌注
+poverty 貧窮 缺乏
+powder 火藥 粉末 香粉
+power 功 動力 權力 力量
+powerful 強大的
+practice 實行 開業 演習
+praise 讚美 稱讚
+pray 祈禱
+precious 昂貴 貴重
+precise 精密
+precision 精確 準確 細緻
+predict 預測 預計 預言 預報 意料
+predictability 可預測性
+prefer 寧願
+premier 首相 國務卿
+prepare 準備
+preposition 前置 介詞
+present 禮物 現在
+presently 馬上 立刻
+president 總裁 總統 主持 議長
+press 壓 按
+pressure 壓力 壓強 應力
+pretend 藉口 假裝 妄想
+prevent 防止 阻止
+price 價錢
+priest 牧師 僧人
+primary 最初 基本 初步
+primer 入門 初學者
+principle 原則 原理 本錢 校長 主義
+print 打印 印刷
+prison 囚犯 監獄 俘虜
+private 私人 秘密
+prize 獎品 獎賞
+probability 概率
+probable 可能 大概
+problem 問題 難題
+proceed 前進 處理 進行
+process 過程 方法 流程 處理
+produce 生產 產生
+product 產品 產物 製造 提供 提出 生產品
+profess 表白
+profession 專業
+professor 教授 叫獸 禽獸
+profit 利潤 盈餘
+profligacy 放蕩 不檢點 浪費
+program 程式 程序
+progress 前進 進步
+project 計劃 項目 映射
+promise 約定 希望 允諾 承諾
+promote 促進 鼓勵
+prompt 提示
+propagate 傳播
+propel 螺旋槳
+proper 適當
+property 屬性 財產 性能 特性 產權 財產權 所有權 家當
+prophecy 預言 預告 預示 預言書
+proposal 草案
+proselytism  勸誘改信仰
+prostate 前列腺
+protect 保護
+protein 蛋白質
+protocal 協議
+proud 驕傲 自尊心
+prove 證明 判明
+provide 提供 供給
+province 省 地方
+prozac 百憂解 氟西汀
+psychology 心理學
+public 公共 公立
+publish 發行 公開 公布
+puertorico 波多黎各
+pull 拉 牽引
+pulse 脈衝
+pump 抽 水泵
+punctuation 標點
+puncture 準時 按時
+punish 處罰 懲
+pure 純粹
+purse 錢袋 荷包
+push 推
+pussy 屄 普世 小貓咪 女陰 陰戶
+put 放置
+puton 戴上 穿上
+python 蟒蛇
+qatar 卡塔爾
+qr 二維條碼
+quail 鵪 鶉
+quantity 量 數量
+quarrel 口角 吵架
+quarter 一刻 四分之一
+queen 皇后 女王
+queer 古怪 奇特 不是味兒
+question 問題 問號 疑問 論點
+quick 快捷 快速 迅速
+quiet 溫和 靜 謐
+quite 完全
+quiver 搖動
+quiver 震 顫
+quotation 引用 語錄
+quote 單引號 引用 援引 摘引 斷字符號
+rabbit 兔子
+race 人種 竟賽 賽跑
+racket 吵鬧
+radio 收音機
+radish 蘿
+radon 氡
+rag 破布
+rage 激烈 憤怒
+rail 欄桿 軌道
+rain 雨
+rainbow 虹 彩虹
+raincoat 雨衣
+raise 抬起 提高
+range 範圍
+rank 隊伍 階級
+rape 強姦
+rapid 迅速 急流
+rare 稀少 珍奇 少有
+rarely 難得 很少
+rat 老鼠 耗子
+rate 價目 比例 等級
+rather 寧可 有點
+raw 原始
+ray 光線 閃爍
+razor 剃刀
+reach 到達
+read 讀 閱 閱讀
+reader 讀者 讀本
+real 實際 現實 真正
+realize 實現
+really 實在 真的
+reap 收割
+rear 後衛 後部 殿軍
+reason 原因 理由 理性 道理 緣故 緣由 情理 來由 理智
+receipt 收據 領受
+receive 收到 接受
+recent 近來 新近
+recite 背誦 講述
+recognition 識別
+recommend 推薦 保送
+record 記錄 錄音
+recover 恢復 收回 痊愈
+recurse 遞歸
+reduce 減少
+redwood 紅木
+redwoodcity 紅木城
+refer 參考 參見 參照 提到 提交 談到 隱射 諮詢
+reference 參考
+references 參考文獻
+refine 煉
+reform 改革
+refrigerator 冰箱
+refuse 拒絕 辭退
+regard 關心 注意 認為
+register 暫存器
+regret 後悔 抱歉 遺憾
+regular 正規 有規則
+reign 支配 朝代 統治
+rejoice 高興 歡喜
+relate 敘述 有關係
+relation 關係 親戚
+relative 親戚 親屬
+relax 松弛 弛緩
+release 釋放
+reliable 可靠 穩妥 確實 牢靠 確切 穩當
+rely 依賴 依靠 倚靠 信賴 憑藉 依仗 倚仗 憑靠 憑仗
+remain 剩下 剩餘 殘存 留下 遺留
+remember 記憶 記起
+remind 提醒 想起
+remove 消除 清除 拆除 排除 解除 撤除 掃除
+renew 更新
+renxinqi 人心齊，泰山移
+repair 修理 賠償
+repeat 重複 反覆
+repeater 中繼器
+replace 代替 替換 置換 取代
+reply 回覆 回帖
+report 報告
+reporter 記者
+repost 【轉貼】【轉載】
+represent 代表 表示
+request 要求 請求
+require 要求 需求
+rescue 救助 解救
+research 研究
+reset 重新設定 重新組合 清零重設
+reside 駐留
+residual 殘留
+resistance 電阻
+resolution 分辨率
+resource 資源
+respect 尊敬
+response 響應
+rest 休息 其餘
+restoration 恢復
+result 結果 結論
+resume 簡歷
+retire 退休 退隱
+retrieve 彌補
+return 返回 歸
+reverse 反 翻 顛倒
+review 復習
+revision 修訂 修改 修訂本 修訂版
+revolution 革命
+reward 報酬 酬謝 獎賞
+rfid 電子標籤 射頻識別
+ribbon 絲帶
+rice 飯
+rich 富 富有 有錢 富裕
+rid 除去 驅除
+riddle 謎
+ride 騎 乘
+rider 騎師
+ridiculous 荒謬 豈有此理
+right 右 右邊 權利 正確
+ring 指環
+rio 桑巴 裡約熱內盧
+ripe 熟 成熟
+rise 上升 起來
+risk 冒險 危險
+river 河流 河 川
+road 路 道路
+roam 徘徊 流浪
+roar 咆哮
+roast 烤 燒烤
+rob 搶奪 搶 奪
+robber 強盜 盜賊
+robe 長袍
+rock 岩石 動搖
+role 職能 地位 角色
+rolex 勞力士
+roll 紙卷 滾
+roller 滾輪 壓路機
+romania 羅馬尼亞
+roof 屋頂
+room 房間 屋子 餘地
+root 根 根源
+rope 繩
+rot 腐蝕
+rotate 旋轉
+rough 粗糙 粗陋 大約
+round 周圍
+route 航線 路線
+row 行 排列 行列
+rub 摩擦
+rubber 橡皮 橡膠
+rude 無禮 粗暴
+rudubupahu 乳犢不怕虎
+rug 毯子 粗絨
+ruin 毀滅 沒落 滅亡
+rule 規矩 規定 規則 潛規則 支配 統治
+rumor 謠言 謠傳
+run 跑 跑步 運行 執行
+rush 匆忙 猛進 趕快 趕緊
+russia 俄國
+russian 俄語 俄羅斯聯邦
+rwanda 盧旺達
+sack 劫掠 搶劫
+sacred 神 聖 神聖
+sacrifice 犧牲
+sad 悲傷
+sadan 撒旦
+safari 狩獵 狩獵旅遊
+safe 安全 保險箱
+sage 聖人 先哲 賢能 鼠尾草 洋紫蘇
+sail 航行 帆
+sailor 水手 海員
+salary 工資
+sale 出賣 銷售
+salt 鹽
+samba 桑巴
+same 同樣 相同
+sample 樣本 標本 樣品
+sand 沙
+sandbox 沙盒 沙箱
+satisfy 滿意 滿足
+save 救 儲蓄 節省 保存
+say 說
+sbc 商業行為規範
+scale 比例
+scam 花招 欺詐 詐財騙局
+scan 掃描
+scarce 稀有 缺乏 罕見
+scatter 擴散 散布 驅散
+scene 光景 場面
+scenery 風景 景色
+scent 香味 香水
+scholar 學者
+school 學校
+science 科學
+scissor 剪刀
+scold 罵 責罵
+score 得分
+scratch 搔抓
+scream 尖叫
+screen 屏幕 上屏
+screenshot 屏幕截圖
+screw 螺絲釘 螺旋槳
+script 原稿 筆跡
+scroll 滾動
+scut 華南理工大學
+sea 海 大海
+seagull 海鷗
+seal 封印 圖章 海豹 海陸空
+seamless 無縫 無縫混排 無縫連接 無縫接駁
+search 搜索 查詢 人肉
+season 季節 春耕 夏耘 秋收 冬藏
+seat 席位 座位
+seaturtle 海龜 海歸 海不歸
+secret 秘密 機密
+secretary 秘書 書記 幹事
+secretions 淫水 陰精
+section 區域 部分
+secular 世俗
+security 安全 治安 保安
+see 看見
+seed 種子
+seek 尋找 尋覓 追求
+seem 貌似 似乎 好像
+seldom 寥寥 稀少 難得
+select 選擇 挑選
+selenium 硒
+self 自己 自我 自己的
+sell 賣 出售 銷售
+send 送 發送 打發 遣送
+senegal 塞內加爾
+sense 意味 意思 感覺
+sensitive 敏感 敏感詞 敏感瓷
+sentence 句子 宣判 判決
+seoul 漢城 首爾
+separate 分開 區別 各別
+sequence 順序 序列
+series 系列 連續 級數 串聯
+serious 嚴肅 嚴重 莊重 認真
+servant 僕人
+serve 服務 合用 侍候
+server 服務器 伺服器
+service 服務 殺必死
+set 集合 集 放
+settle 搞踮 搞妥
+several 幾個
+severe 嚴格 劇烈
+sew 縫
+sex 性 ♀ ♂ 性別 性慾 嘿咻
+sexual 性慾
+sexy 性感的
+sf 舊金山
+sfo 舊金山國際機場
+shade 樹蔭 陰處 廕 蔭
+shadow 影子
+shake 搖
+shallow 淺 水淺 淺薄
+shaman 薩滿 巫師
+shame 丟臉 侮辱 恥辱 恥
+shape 形狀 樣子
+share 共享 分享 股份
+shark 鮫
+sharp 乖巧 銳利 尖
+shave 剃
+she 她
+sheep 羊
+sheet 床單
+shelf 架子
+shell 殼 貝殼 外殼 炮彈
+sheraton 喜來登
+shine 發光 照耀
+shirt 襯衫
+shiver 發抖 打顫
+shock 衝擊 驚愕 震動
+shoe 鞋 鞋子
+shoot 發射 開槍 發芽
+shop 商店 鋪子
+shore 海岸 湖濱
+short 短 簡短
+shortcoming 缺點
+shortcut 捷徑 近路 便道
+shorter 更短 越來越短
+should 應當 應該
+shoulder 肩膀
+show 顯示 出示 展覽會
+shower 陣雨
+showwindow 櫥窗 陳列窗
+shrimp 蝦
+shrink 縮 收縮
+shrub 灌木
+shy 害臊 怕羞
+sick 生病 不舒服
+sickness 疾病
+side 邊 側旁
+siege 圍城 圍攻 包圍
+sigh 嘆氣
+sight 名勝 視力
+sigma σ Σ
+sign 符號 信號
+signature 簽名
+silence 寂靜 沉默
+silicon 硅 矽
+siliconvalley 硅谷
+silk 絲 綢絲
+silly 愚蠢 可笑
+silver 銀
+similar 類似 相似 同樣
+simple 簡單 樸素
+simplest 最簡單 最容易
+simulate 模擬 仿真
+sincere 衷心 誠實
+sing 唱 唱歌 歌曲
+singapore 新加坡
+singer 歌手
+single 單身 單獨 單數 一個 單個
+sink 凹陷 沉下
+sir 先生
+sister 姐姐 姊妹
+sit 坐
+situation 形勢 情況 情形
+size 大小 尺寸
+skate 溜冰
+skeleton 骨架 骨骼 屍骨 骨頭架子
+ski 滑雪 雪撬
+skilful 巧妙
+skill 技巧 技能 技藝 本事 身手 本領 熟練 手法 功夫
+skin 皮 皮膚
+skirt 裙 裙子
+skull 髏
+sky 天 天空
+slash 正斜槓
+sled 雪撬
+sleep 睡 睡覺 睡眠 挺屍
+sleeve 袖子
+slender 苗條 細長 纖弱
+slight 微細 輕視 輕微
+slip 溜進 滑倒 過失
+slope 斜坡 傾斜
+slovakia 斯洛伐克
+slovenia 斯洛文尼亞
+slow 慢 遲鈍
+sluggish 滯
+slut 蕩婦 懶婦
+sly 狡猾 暗中
+smaller 越來越小
+smart 機靈 智能 高明 英明
+smell 香味 聞到
+smile 微笑
+smoke 煙 抽煙 冒煙
+smooth 平滑 順利 流利
+sms 短訊
+snail 蝸牛
+snake 蛇
+snatch 搶去
+snobbish 勢利
+snow 雪
+so 所以 因此
+soap 肥皂
+sob 嗚咽
+sober 清醒
+social 社會
+society 社會
+sock 襪子
+socks 襪
+soda 蘇打 汽水 鹼
+sofa 沙發
+soft 柔軟
+software 軟件 軟體
+sogou 搜狗
+soil 污斑 弄髒
+soldier 軍人 兵士
+solid 固定的 固體
+solidarity 齊心協力 同心同德
+solution 方案 答案 解決
+solve 解決
+somalia 索馬裡
+some 幾個 有些 若干 某些
+somebody 某人 有人
+somehow 總要
+someone 有人
+something 有些 某事
+sometime 有時 往往
+somewhat 稍有 有點 略有
+somewhere 有點 稍有 略有 某處
+son 兒 兒子
+soon 馬上 不久
+sore 疼痛
+sorrow 悔恨 悲哀
+sorry 抱歉 遺憾 可憐
+sort 排序 種類
+soul 靈魂 靈 魂
+sound 聲音 健全
+soup 湯
+sour 酸
+source 源
+southafrica 南非
+sow 播種
+spade 鏟
+spain 西班牙
+spanish 西班牙文 西班牙的
+spare 空閒 多餘
+spark 火花
+sparrow 麻雀
+spartacus 斯巴達克斯
+speak 說 講 說話 講話
+speaker 演說者 發言人
+special 特殊 專門 專業
+spectacle 壯觀 光景
+speech 講演
+speed 速度 加快
+spell 拼寫
+spend 花費 消遣
+sperm 精子 精蟲 子弟兵
+spider 蜘蛛
+spin 紡
+spirit 精神 靈魂
+splendid 華麗 光輝 顯赫
+split 分裂
+spoil 弄壞 縱壞
+spoon 匙子 調羹
+sporadic 零星 斷斷續續的 陣發性的 偶爾發生的 間或出現的
+sport 運動
+spread 傳播
+square 廣場 平方
+squirrel 松鼠
+stable 穩定
+stack 堆棧
+staff 職員 參謀
+stage 階段
+stairs 樓梯
+stalk 柄 莖
+stamp 郵票 踏
+stand 站 起立
+standard 標準
+stanford 斯坦福大學
+staple 釘書針
+star 星 明星 ☆ ★
+starbucks 星巴克
+stare 疑視
+start 出發 開始 起動
+starve 餓死 挨餓
+stat 統計
+state 狀態 情形 州
+static 靜態 靜態
+station 車站
+statistics 統計 統計學
+statutory 法定的 成文的
+stay 逗留
+steady 堅固 穩定 不變
+steal 偷 竊取
+steam 蒸汽
+steel 鋼
+steep 陡峻 險阻
+steeple 尖塔
+stem 桿 梗莖
+step 步 步驟 階梯 梯級
+stern 嚴厲 冷酷 船尾
+stick 手杖
+still 靜止 仍然
+sting 叮 刺
+stock 股票 股市
+stockholm 斯德哥爾摩
+stomach 肚子 胃
+stone 石 石頭 岩石 果核
+stool 凳子
+stop 停 停止
+store 商店 存儲 積蓄 貯藏
+storm 暴風雨
+story 故事 情節
+stout 勇猛 壯健
+stove 火爐 爐
+straight 直
+strange 奇怪 陌生 吊詭 奇異 怪異
+stranger 陌生人
+strategy 戰略
+straw 麥稈
+strawberry 草莓
+stray 迷失
+stream 小河 河流
+street 街
+strep 鏈球菌
+stretch 展開 擴張
+strike 打擊
+string 弦 字符串
+strip 剝
+stroke 擊 筆劃 筆畫
+strong 強壯
+struggle 鬥爭 奮鬥 掙扎
+student 學生
+study 學習 研究
+stuff 塞進 材料
+stupid 笨 愚蠢
+style 風格
+subject 主題
+submit 提出 屈服
+subscribe 訂閱
+substitute 替代
+subway 地鐵
+succeed 成功 繼承
+success 成功
+such 這樣 那樣
+suck 吮吸
+sudan 蘇丹
+sudden 突然
+suffer 容許 放任 蒙受
+sufficient 充分 豐富 足夠
+sugar 糖
+suggest 建議
+suicide 自殺 被自殺
+suitable 適合 適宜
+sulphur 硫
+sum 總數 總計 總和
+summary 總結 總之 盤點
+sun 太陽
+sunny 晴天
+sunshine 陽光
+superior 優勢
+supper 晚飯
+support 支持 扶養 擁護 支撐
+suppose 假定 假設 猜想
+sure 確實 的確 當然
+surface 表面
+surprise 驚奇 驚異 驚訝 驚愕 吃驚
+surrender 投降
+surround 包圍 圍繞
+sushi 壽司
+suspect 嫌疑 涉嫌人 可疑分子
+swan 天鵝
+swaziland 斯威士蘭
+swear 發誓
+sweat 出汗
+sweden 瑞典
+sweep 掃除 打掃
+sweet 甜 甜蜜的 芳香
+swell 增大 腫起 膨脹
+swift 迅速
+swim 游泳
+swine 豬玀 下流坯
+swineflu 豬流感
+swing 鞦韆 擺動 搖擺
+swiss 瑞士
+swissarmy 瑞士軍刀
+switch 開關
+swollen 腫
+sword 劍 刀劍
+syllables 音節
+symbol 符號 象徵
+syndrome 綜合症
+synonym 同義詞
+system 系統 體系
+table 桌 桌子 表格
+tactics 戰術
+tag 標籤
+tail 尾巴 末端
+tailor 裁縫
+taiwan 台灣 臺灣
+take 取 拿
+tale 故事
+talk 講話 談話
+tame 馴服
+tank 坦克
+tape 磁帶 錄音帶
+tardy 遲到 遲到的 緩慢的 遲緩的
+task 任務 工作
+taste 嘗 嘗鮮 味道 嗜好
+tattoo 紋身
+tax 稅 抽稅
+taxi 計程車 出租汽車 打的 的士
+tea 茶 茶葉
+teach 教
+teacher 老師 教師 先生
+team 隊 團隊
+tear 淚 眼淚
+technology 技術
+telegraph 電報
+telephone 電話
+tell 告訴 囑咐
+temper 脾氣
+temperature 溫度
+temple 廟 廟寺
+temporary 暫時
+tendency 勢
+tender 溫柔 嫩綠 柔弱 柔軟
+tennessee 田納西
+tennis 網球
+tent 帳篷 帷幄 營帳 篷帳
+term 期限 術語
+terminal 終端
+terrible 可怕
+terror 恐怖
+test 測試 試驗 考驗 實驗 考試 測驗
+testicle 睪
+texas 德州 德克薩斯
+text 文本 案文 正文 課文 纂輯
+textbook 課本 教科書
+thailand 泰國
+thallium 鉈中毒
+than 比
+thank 謝謝 感謝 鳴謝
+thanksgiving 感恩節
+that 那個 那種 那樣 那麼 那本
+theater 劇場 戲院 電影院
+their 他們的 她們的
+them 他們 她們 它們
+then 那麼 於是 爾後 接著 然後 遂
+theory 理論
+there 那裡
+therefore 所以 因此
+these 這些
+thesis 論文
+theta θ Θ
+they 他們 她們 它們
+thick 厚 密 濃
+thief 小偷 盜賊
+thin 瘦 薄
+thing 事情 東西
+think 考慮 以為 思 想
+thirst 渴
+thirst 渴 渴望
+this 這個 這種 這樣 這麼
+thorough 充分 完全 徹底
+those 那些
+though 即使 雖然
+thousand 千 仟
+thresh 門檻 閾值
+throat 嚨 咽喉
+through 全部 遍及 經過 通過
+throw 扔 扔掉 扔到 拋擲
+thrust 推入
+thumb 大姆指
+thunder 雷 打雷
+thus 於是 如此
+tibet 西藏 吐蕃
+ticket 車票 入場券
+tide 潮 潮流 時勢
+tie 領帶
+tiger 老虎
+tile 瓦磚
+till 直到
+timber 木材
+time 時間
+times 次 次數
+timid 懦怯 膽小
+tin 錫
+tiny 微小
+tip 小費 賞錢 小技巧
+tired 疲勞
+title 標題 頭銜
+to 到
+toast 烤麵包
+tobacco 煙草
+toe 腳趾 鞋尖
+toefl 託福
+tofu 豆腐
+together 一起 一塊兒
+toggle 切換
+toil 辛苦 苦工 苦幹
+token 紀念品 標記 表徵
+tokyo 東京
+tolerate 容忍
+tomb 墳 墓 墳墓
+tomorrow 明天
+ton 噸
+tone 調 音調 色調 語調 音色
+tongue 舌頭
+tonight 今晚
+too 太
+tool 工具 【實驗器材】
+toomuch 太超過 太過分
+tooth 齒 牙齒
+toothpaste 牙膏
+top 頂
+tortoise 龜 烏龜
+toss 搖動 顛簸
+totem 圖騰 標記 徽章
+touch 碰 接觸 觸摸
+tour 旅行
+toward 向著 對著 朝著
+towel 毛巾
+tower 塔 高聳
+town 市鎮
+toy 玩具
+trace 足跡 線索 痕跡
+track 跑道
+trade 貿易 商業 買賣
+tradition 傳統
+tragedy 悲劇 杯具
+train 火車
+training 訓練
+transfer 傳遞 轉換
+translate 翻譯
+translator 翻譯器
+transparent 透明
+trap 陷阱
+trash 垃圾
+travel 旅行
+traveler 遊客 旅行者
+tray 托盤 盤子
+tread 蹂躪
+treasure 財寶
+treat 處理 對待 款待
+treatment 處理 待遇 治療
+tree 樹
+trellis 網格
+tremble 發抖 震動
+trend 潮流 趨勢 趨向 傾向 動向 浪頭
+triangle 三角形
+trick 詭計 騙術
+trigger 激活 觸發 啟動 扳機
+trip 旅行
+troop 軍隊 部隊
+arms 武器 軍火 軍備 武裝 兵器
+trouble 麻煩 煩惱 擾亂
+trouser 褲子
+truck 卡車
+true 真 真的 真正 真相
+trunk 樹幹
+trust 信用
+truth 真實 真理 真相
+try 試 試試 試一試 嘗試 試圖
+tsunami 海嘯
+tube 筒 管
+tunnel 隧道
+turing 圖靈
+turn 變化 轉動 旋轉
+turtle 龜 烏龜
+tv 電視 電視機
+twice 兩倍 兩次
+twig 樹枝
+twin 孿生子
+twinkle 閃爍
+twitter 微博 微博客 推特
+type 類型 打字
+typewriter 打字機
+typical 典型
+typist 打字員
+ufo 不明飛行物
+uganda 烏干達
+ugly 醜 難看
+umbrella 傘 雨傘
+umpire 公正人
+uncle 舅舅 叔叔 伯伯
+under 之下
+understand 明白 了解 懂得
+unfortunate 不幸 倒霉
+unicode 統一碼 萬國碼 國際代碼標準
+uniform 制服 軍服
+union 工會 結合 聯盟
+unique 唯一 獨特的 獨一無二
+unite 團結 合一 統一 單位
+universe 普適 通用
+university 大學
+unknown 無名 未知
+unless 除非
+unsung 幕後
+unusual 不平常 稀有
+up 上 向上 起來
+update 更新
+upload 上載
+upper 上部
+upright 直立 筆直 老實
+upstairs 樓上
+upward 向上
+uranium 鈾
+uruguay 烏拉圭
+urumqi 烏魯木齊
+usa 美國 米國 美利堅合眾國
+use 用 使用 採用 利用
+useful 有用的
+useless 沒用 無益
+user 用戶 玩家
+ussr 蘇聯
+usual 普通 通常
+utah 猶他
+utilize 利用
+utmost 極度
+utopia 烏托邦 桃花源
+utter 十足 完全
+uyghur 維吾爾
+vacation 假期
+vagina 陰戶
+vain 空虛 虛榮
+valentine 情人節
+valid 有效的
+valley 流域 谷
+valuable 貴重
+value 價值 價格 定值 價錢 數值
+vapor 蒸氣 煙霧
+various 各種 多樣
+vary 變化
+vase 花瓶
+vast 廣闊
+vegetable 蔬菜 植物
+veil 面紗
+vein 靜脈 血管 葉脈
+venture 冒險 投機
+verb 動詞
+verdict 定案 判決書
+verify 驗證
+vermont 佛蒙特
+verse 詩句 韻文
+version 版本
+vertical 縱
+verticle 豎 垂直 絕頂
+very 非常 很
+vessel 容器 器皿 船隻
+vest 背心
+veteran 老兵
+vibrate 振動
+vice 副
+victory 勝利 凱旋
+video 視頻 錄像
+view 風景 意見 見解
+vigra 威哥 威妹 偉哥
+village 村莊 鄉
+violate 破壞 侵害 污辱
+violent 猛烈 暴力
+violin 小提琴
+virgin 處女
+virus 病毒
+visa 簽證
+viscous 粘 粘的 粘性的
+visible 看得見
+visit 參觀 訪問 拜會 看望
+visitor 來客 遊客
+voa 美國之音
+voice 聲音
+volcano 火山
+volleyball 排球
+volume 體積
+volunteer 志願者
+vomit 嘔
+vote 投票
+vowel 元音
+voyage 航海
+vulgar 低俗 庸俗 媚俗
+wade 趟過
+wafer 晶圓 硅片
+wage 工資 薪水
+wagon 貨車
+waist 腰
+wait 等候 等待 等一等
+waiter 服務員
+wake 醒 覺醒 覺悟
+walk 走 走路 散步
+wall 墻 被墻 墻壁
+wallstreet 華爾街
+wander 徘徊 流浪
+want 需要
+war 戰 戰爭
+warm 溫 暖 溫暖 暖和
+warmful 熱情的
+wash 洗
+washington 華盛頓
+waste 廢物 浪費 荒廢
+watch 監視 看守 手錶 手錶
+water 水
+wave 動搖 波浪
+wax 蠟
+way 辦法 方案 方式 方法 道路
+we 我們
+weak 有病 虛弱
+wealth 財富
+wear 疲乏 磨損 穿戴
+weather 天氣 氣候
+weave 織
+wedding 婚禮
+weep 哭泣
+weight 體重 重量
+welcome 歡迎 迎接
+well 好 井
+wet 濕
+whale 鯨
+what 什麼
+whatever 什麼都 無論 什麼都
+wheat 小麥
+wheel 輪 轂
+when 何時 當
+whenever 隨時
+where 哪裡 何處
+whether 不管
+which 那一個 哪個
+whirl 旋轉 旋渦
+whisper 耳語 私語 低語
+whistle 汽笛 吹口哨
+whitepaper 白皮書
+who 誰
+whoever 誰都 不管誰
+whole 全體 完全 統統 整個
+whore 婊子 妓女 娼婦
+whoredom 淫亂
+whose 誰的
+why 為什麼
+wicked 邪惡 不正經
+wide 寬 寬闊
+widow 寡婦
+widower 鰥
+width 寬度
+wife 妻子 老婆
+wiki 維基
+wikileaks 維基揭密
+wikipedia 維基百科
+wild 粗野 荒蕪
+will 將 遺囑
+win 嬴 勝
+wind 風
+window 窗 窗戶 窗口
+windows 微軟視窗
+wine 葡萄酒
+wing 翅膀
+wink 眨眼
+wipe 抹 擦
+wire 電線
+wisconsin 威斯康星
+wisdom 智慧
+wish 願望 祝願 希望
+wither 枯萎 凋殘
+within 以內 在內
+without 沒有 不用
+wolf 狼
+woman 女人 婦女 我們
+women 婦女
+wonder 奇妙 可驚 驚訝 奇觀
+wonderful 奇妙的
+wood 木 柴
+wooden 木製
+wool 羊毛
+word 字 詞
+work 工作 勞動
+workaround 歪招
+worker 工人 工作者
+world 世界
+worldwar 世界大戰
+worse 更壞 越來越壞
+worth 價值
+wound 負傷 傷害
+wow 哇 哇啦 魔獸世界
+wrath 憤怒
+wreath 花環
+wreck 失事 遭難
+wrist 手腕
+write 寫 寫作
+writer 作家
+wrong 錯 錯的 不對的
+wto 世界貿易組織
+www 互聯網 網站 萬維網 萬維網
+xag 白銀
+xau 黃金
+yahoo 雅虎
+yale 耶魯大學
+yam 紅薯
+yard 院子
+yawn 打呵欠
+year 年 年歲 年齡 骨齡
+yell 叫喊 喊叫 呼叫 號叫
+yemen 也門
+yes 是的
+yesterday 昨天
+yet 還 仍然
+yield 供給 產
+yoga 瑜珈
+yosemite 優勝美地 國家公園
+you 你 妳
+yuga 瑜伽
+zebra 斑馬
+zinc 鋅
+zombie 僵屍 行屍走肉
+zone 區域 地帶
+zoo 動物園
+zoology 動物學
